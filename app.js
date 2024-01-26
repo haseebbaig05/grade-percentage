@@ -1,5 +1,5 @@
 
-alert('hi')
+alert('Welcome')
 
 function calculate()
 {
